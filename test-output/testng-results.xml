@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[The name of the fields are shown below]]>
+    </line>
+    <line>
+      <![CDATA[First Name]]>
+    </line>
+    <line>
+      <![CDATA[First Name is not valid]]>
+    </line>
+    <line>
+      <![CDATA[Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Last Name is not valid]]>
+    </line>
+    <line>
+      <![CDATA[Department / Office]]>
+    </line>
+    <line>
+      <![CDATA[Select your Department/Office]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[User Name is not valid]]>
+    </line>
+    <line>
+      <![CDATA[Password is not valid]]>
+    </line>
+    <line>
+      <![CDATA[E-Mail]]>
+    </line>
+    <line>
+      <![CDATA[Email is not valid]]>
+    </line>
+    <line>
+      <![CDATA[Contact No.]]>
+    </line>
+    <line>
+      <![CDATA[Contact Number is not valid]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[Please enter your First Name]]>
+    </line>
+    <line>
+      <![CDATA[Please enter your Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Please enter your Username]]>
+    </line>
+    <line>
+      <![CDATA[Please enter your Password]]>
+    </line>
+    <line>
+      <![CDATA[Please confirm your password]]>
+    </line>
+    <line>
+      <![CDATA[Please enter your Email Address]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[Password *]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[Other fields are mandatory. please enter the data]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[Password *]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[The name of the fields are shown below]]>
+    </line>
+    <line>
+      <![CDATA[First Name]]>
+    </line>
+    <line>
+      <![CDATA[Last Name]]>
+    </line>
+    <line>
+      <![CDATA[E-Mail]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[You have successfully registered : Thanks]]>
+    </line>
+    <line>
+      <![CDATA[The name of the fields are shown below]]>
+    </line>
+    <line>
+      <![CDATA[First Name]]>
+    </line>
+    <line>
+      <![CDATA[Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Department / Office]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[Password *]]>
+    </line>
+    <line>
+      <![CDATA[E-Mail]]>
+    </line>
+    <line>
+      <![CDATA[Contact No.]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[You have successfully registered : Thanks]]>
+    </line>
+    <line>
+      <![CDATA[The name of the fields are shown below]]>
+    </line>
+    <line>
+      <![CDATA[First Name]]>
+    </line>
+    <line>
+      <![CDATA[Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Department / Office]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[Password *]]>
+    </line>
+    <line>
+      <![CDATA[E-Mail]]>
+    </line>
+    <line>
+      <![CDATA[Contact No.]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[You have successfully registered : Thanks]]>
+    </line>
+    <line>
+      <![CDATA[The name of the fields are shown below]]>
+    </line>
+    <line>
+      <![CDATA[First Name]]>
+    </line>
+    <line>
+      <![CDATA[Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Department / Office]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[Password *]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Password]]>
+    </line>
+    <line>
+      <![CDATA[Password and Confirm Password doesnot match]]>
+    </line>
+    <line>
+      <![CDATA[E-Mail]]>
+    </line>
+    <line>
+      <![CDATA[Contact No.]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[You have successfully registered : Thanks]]>
+    </line>
+    <line>
+      <![CDATA[The name of the fields are shown below]]>
+    </line>
+    <line>
+      <![CDATA[First Name]]>
+    </line>
+    <line>
+      <![CDATA[Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Department / Office]]>
+    </line>
+    <line>
+      <![CDATA[Username *]]>
+    </line>
+    <line>
+      <![CDATA[Password *]]>
+    </line>
+    <line>
+      <![CDATA[E-Mail]]>
+    </line>
+    <line>
+      <![CDATA[Contact No.]]>
+    </line>
+    <line>
+      <![CDATA[        SUBMIT         ]]>
+    </line>
+    <line>
+      <![CDATA[List of oprions of Department/Office are shown below]]>
+    </line>
+    <line>
+      <![CDATA[Select your Department/Office]]>
+    </line>
+    <line>
+      <![CDATA[Engineering]]>
+    </line>
+    <line>
+      <![CDATA[Marketing]]>
+    </line>
+    <line>
+      <![CDATA[Sales]]>
+    </line>
+    <line>
+      <![CDATA[Support]]>
+    </line>
+    <line>
+      <![CDATA[You have successfully registered : Thanks]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="113401" started-at="2017-11-05T17:08:57Z" finished-at="2017-11-05T17:10:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="113401" started-at="2017-11-05T17:08:57Z" finished-at="2017-11-05T17:10:50Z">
+      <class name="scripts.MandatoryData">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.MandatoryData@4520ebad]" name="OpenApplication" is-config="true" duration-ms="9624" started-at="2017-11-05T22:39:27Z" finished-at="2017-11-05T22:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestMandatoryFields()[pri:3, instance:scripts.MandatoryData@4520ebad]" name="TestMandatoryFields" duration-ms="3484" started-at="2017-11-05T22:39:36Z" finished-at="2017-11-05T22:39:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[Password *]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[Other fields are mandatory. please enter the data]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestMandatoryFields -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.MandatoryData@4520ebad]" name="closeApplication" is-config="true" duration-ms="151" started-at="2017-11-05T22:39:40Z" finished-at="2017-11-05T22:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.MandatoryData -->
+      <class name="scripts.ValidData">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.ValidData@548a9f61]" name="OpenApplication" is-config="true" duration-ms="10102" started-at="2017-11-05T22:40:35Z" finished-at="2017-11-05T22:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestValidRegistration()[pri:7, instance:scripts.ValidData@548a9f61]" name="TestValidRegistration" duration-ms="5371" started-at="2017-11-05T22:40:45Z" finished-at="2017-11-05T22:40:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The name of the fields are shown below]]>
+            </line>
+            <line>
+              <![CDATA[First Name]]>
+            </line>
+            <line>
+              <![CDATA[Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Department / Office]]>
+            </line>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[Password *]]>
+            </line>
+            <line>
+              <![CDATA[E-Mail]]>
+            </line>
+            <line>
+              <![CDATA[Contact No.]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[List of oprions of Department/Office are shown below]]>
+            </line>
+            <line>
+              <![CDATA[Select your Department/Office]]>
+            </line>
+            <line>
+              <![CDATA[Engineering]]>
+            </line>
+            <line>
+              <![CDATA[Marketing]]>
+            </line>
+            <line>
+              <![CDATA[Sales]]>
+            </line>
+            <line>
+              <![CDATA[Support]]>
+            </line>
+            <line>
+              <![CDATA[You have successfully registered : Thanks]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestValidRegistration -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.ValidData@548a9f61]" name="closeApplication" is-config="true" duration-ms="113" started-at="2017-11-05T22:40:50Z" finished-at="2017-11-05T22:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.ValidData -->
+      <class name="scripts.UniquenessCheck">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.UniquenessCheck@4f933fd1]" name="OpenApplication" is-config="true" duration-ms="8894" started-at="2017-11-05T22:39:56Z" finished-at="2017-11-05T22:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestUniqueness()[pri:5, instance:scripts.UniquenessCheck@4f933fd1]" name="TestUniqueness" duration-ms="3182" started-at="2017-11-05T22:40:05Z" finished-at="2017-11-05T22:40:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The name of the fields are shown below]]>
+            </line>
+            <line>
+              <![CDATA[First Name]]>
+            </line>
+            <line>
+              <![CDATA[Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Department / Office]]>
+            </line>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[Password *]]>
+            </line>
+            <line>
+              <![CDATA[E-Mail]]>
+            </line>
+            <line>
+              <![CDATA[Contact No.]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[You have successfully registered : Thanks]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestUniqueness -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.UniquenessCheck@4f933fd1]" name="closeApplication" is-config="true" duration-ms="132" started-at="2017-11-05T22:40:08Z" finished-at="2017-11-05T22:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.UniquenessCheck@4f933fd1]" name="OpenApplication" is-config="true" duration-ms="9746" started-at="2017-11-05T22:40:09Z" finished-at="2017-11-05T22:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestUniqueness()[pri:5, instance:scripts.UniquenessCheck@4f933fd1]" name="TestUniqueness" duration-ms="3124" started-at="2017-11-05T22:40:18Z" finished-at="2017-11-05T22:40:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The name of the fields are shown below]]>
+            </line>
+            <line>
+              <![CDATA[First Name]]>
+            </line>
+            <line>
+              <![CDATA[Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Department / Office]]>
+            </line>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[Password *]]>
+            </line>
+            <line>
+              <![CDATA[E-Mail]]>
+            </line>
+            <line>
+              <![CDATA[Contact No.]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[You have successfully registered : Thanks]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestUniqueness -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.UniquenessCheck@4f933fd1]" name="closeApplication" is-config="true" duration-ms="106" started-at="2017-11-05T22:40:21Z" finished-at="2017-11-05T22:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.UniquenessCheck -->
+      <class name="scripts.NoData">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.NoData@5419f379]" name="OpenApplication" is-config="true" duration-ms="9168" started-at="2017-11-05T22:39:15Z" finished-at="2017-11-05T22:39:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="emptyData()[pri:2, instance:scripts.NoData@5419f379]" name="emptyData" duration-ms="2560" started-at="2017-11-05T22:39:24Z" finished-at="2017-11-05T22:39:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[Please enter your First Name]]>
+            </line>
+            <line>
+              <![CDATA[Please enter your Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Please enter your Username]]>
+            </line>
+            <line>
+              <![CDATA[Please enter your Password]]>
+            </line>
+            <line>
+              <![CDATA[Please confirm your password]]>
+            </line>
+            <line>
+              <![CDATA[Please enter your Email Address]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- emptyData -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.NoData@5419f379]" name="closeApplication" is-config="true" duration-ms="100" started-at="2017-11-05T22:39:26Z" finished-at="2017-11-05T22:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.NoData -->
+      <class name="scripts.PwdMismatch">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.PwdMismatch@7dc7cbad]" name="OpenApplication" is-config="true" duration-ms="9299" started-at="2017-11-05T22:40:22Z" finished-at="2017-11-05T22:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestPwdMismatch()[pri:6, instance:scripts.PwdMismatch@7dc7cbad]" name="TestPwdMismatch" duration-ms="3906" started-at="2017-11-05T22:40:31Z" finished-at="2017-11-05T22:40:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The name of the fields are shown below]]>
+            </line>
+            <line>
+              <![CDATA[First Name]]>
+            </line>
+            <line>
+              <![CDATA[Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Department / Office]]>
+            </line>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[Password *]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Password]]>
+            </line>
+            <line>
+              <![CDATA[Password and Confirm Password doesnot match]]>
+            </line>
+            <line>
+              <![CDATA[E-Mail]]>
+            </line>
+            <line>
+              <![CDATA[Contact No.]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[You have successfully registered : Thanks]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestPwdMismatch -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.PwdMismatch@7dc7cbad]" name="closeApplication" is-config="true" duration-ms="87" started-at="2017-11-05T22:40:35Z" finished-at="2017-11-05T22:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.PwdMismatch -->
+      <class name="scripts.RequiredFields">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.RequiredFields@d2cc05a]" name="OpenApplication" is-config="true" duration-ms="11839" started-at="2017-11-05T22:39:40Z" finished-at="2017-11-05T22:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestRequiredFields()[pri:4, instance:scripts.RequiredFields@d2cc05a]" name="TestRequiredFields" duration-ms="4605" started-at="2017-11-05T22:39:52Z" finished-at="2017-11-05T22:39:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[Password *]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[The name of the fields are shown below]]>
+            </line>
+            <line>
+              <![CDATA[First Name]]>
+            </line>
+            <line>
+              <![CDATA[Last Name]]>
+            </line>
+            <line>
+              <![CDATA[E-Mail]]>
+            </line>
+            <line>
+              <![CDATA[        SUBMIT         ]]>
+            </line>
+            <line>
+              <![CDATA[You have successfully registered : Thanks]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestRequiredFields -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.RequiredFields@d2cc05a]" name="closeApplication" is-config="true" duration-ms="108" started-at="2017-11-05T22:39:56Z" finished-at="2017-11-05T22:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.RequiredFields -->
+      <class name="scripts.InvalidData">
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:scripts.InvalidData@58651fd0]" name="OpenApplication" is-config="true" duration-ms="13540" started-at="2017-11-05T22:38:57Z" finished-at="2017-11-05T22:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="TestInvalidData()[pri:1, instance:scripts.InvalidData@58651fd0]" name="TestInvalidData" duration-ms="3967" started-at="2017-11-05T22:39:11Z" finished-at="2017-11-05T22:39:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The name of the fields are shown below]]>
+            </line>
+            <line>
+              <![CDATA[First Name]]>
+            </line>
+            <line>
+              <![CDATA[First Name is not valid]]>
+            </line>
+            <line>
+              <![CDATA[Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Last Name is not valid]]>
+            </line>
+            <line>
+              <![CDATA[Department / Office]]>
+            </line>
+            <line>
+              <![CDATA[Select your Department/Office]]>
+            </line>
+            <line>
+              <![CDATA[Username *]]>
+            </line>
+            <line>
+              <![CDATA[User Name is not valid]]>
+            </line>
+            <line>
+              <![CDATA[Password is not valid]]>
+            </line>
+            <line>
+              <![CDATA[E-Mail]]>
+            </line>
+            <line>
+              <![CDATA[Email is not valid]]>
+            </line>
+            <line>
+              <![CDATA[Contact No.]]>
+            </line>
+            <line>
+              <![CDATA[Contact Number is not valid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestInvalidData -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.InvalidData@58651fd0]" name="closeApplication" is-config="true" duration-ms="128" started-at="2017-11-05T22:39:15Z" finished-at="2017-11-05T22:39:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.InvalidData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
